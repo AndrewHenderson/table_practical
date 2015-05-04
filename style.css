@@ -1,0 +1,37 @@
+.container {
+  padding-top: 40px;
+}
+.output {
+  font-size: 22px;
+  font-weight: bold;
+  color: forestgreen;
+}
+.table {
+  margin-top: 15px;
+}
+.table td {
+  background-color: white;
+  text-align: center;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 18px;
+}
+.table td:hover {
+  color: white !important;
+  background-color: #428bca !important;
+}
+.table td:active {
+  background-color: #3276b1 !important;
+}
+ol {
+  margin-top: 15px;
+}
+
+.newTheme{
+
+}
+
+.altThemeBtn{
+  display: block;
+  margin: 0 auto;
+}
